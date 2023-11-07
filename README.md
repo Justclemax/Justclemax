@@ -1,8 +1,7 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is clément
+Hi ! 🤌🏾 My name is Clément 🇨🇩    
 ===============================================================================================================================
 
-Full stack developper & Data analyst
-------------------------------------
+Full stack developper & Data analyst  ------------------------------------
 
 * 🖥️  See my portfolio at [justclemax.netlify.app](http://https://justclemax.netlify.app/)
 * ✉️  You can contact me at [clementkafwimbi22@gmail.com](mailto:clementkafwimbi22@gmail.com)
