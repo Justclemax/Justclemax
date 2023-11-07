@@ -1,9 +1,15 @@
 Hi ! 🤌🏾 My name is Clément 🇨🇩    
 ===============================================================================================================================
 
-Full stack developper & Data analyst  ------------------------------------
+👨‍💻 Full stack developper & Data analyst📊  ------------------------------------
 
-* 🖥️  See my portfolio at [justclemax.netlify.app](http://https://justclemax.netlify.app/)
+🚀 Passionné d'innovation et de créativité 💡
+
+🌐 Focus sur l'efficacité, la qualité et l'UX ⚙️
+
+📈 Créons ensemble des solutions exceptionnelles ! 🌟
+
+* 🖥️  See my portfolio at [justclemax](http://https://justclemax.netlify.app/)
 * ✉️  You can contact me at [clementkafwimbi22@gmail.com](mailto:clementkafwimbi22@gmail.com)
 
 <a href="https://www.github.com/Justclemax" target="_blank" rel="noreferrer"><img
