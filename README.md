@@ -16,13 +16,10 @@ Hi ! 🤌🏾 My name is Clément 🇨🇩
 
 <a href="https://www.github.com/Justclemax" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Justclemax?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-<head>
-  <link rel="stylesheet"
-  href="https://cdn.jsdelivr.net/npm/boxicons@latest/css/boxicons.min.css">
-  <!-- or -->
-  <link rel="stylesheet"
-  href="https://unpkg.com/boxicons@latest/css/boxicons.min.css">
-</head>
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/boxicons@latest/css/boxicons.min.css">
+<link rel="stylesheet"href="https://unpkg.com/boxicons@latest/css/boxicons.min.css">
+
 
 ### Skills
 
