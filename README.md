@@ -47,3 +47,4 @@ src="https://img.shields.io/github/followers/Justclemax?logo=github&style=for-th
 <b>Top Repositories</b>
 
 <div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
+<i class='bx bxs-color'></i>
