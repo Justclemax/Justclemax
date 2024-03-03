@@ -3,7 +3,7 @@ Hi ! 🤌🏾 My name is Clément 🇨🇩
 
 <b> ✝️ God  First </b>
 
-<b> 👨‍💻 Full stack developper & Data analyst📊 </b>
+
 
 <b> 🚀 Passionné d'innovation et de créativité 💡 </b>
 
