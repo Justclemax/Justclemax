@@ -11,7 +11,7 @@ Hi ! 🤌🏾 My name is Clément 🇨🇩
 
 <b> 📈 Créons ensemble des solutions exceptionnelles ! 🌟 </b>
 
-* 🖥️  See my portfolio at [justclemax](http://https://justclemax.netlify.app/)
+
 * ✉️  You can contact me at [clementkafwimbi22@gmail.com](mailto:clementkafwimbi22@gmail.com)
 
 <a href="https://www.github.com/Justclemax" target="_blank" rel="noreferrer"><img
